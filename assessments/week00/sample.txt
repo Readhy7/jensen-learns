@@ -1,0 +1,3 @@
+The sales team built a model. Data drives the model, and evaluation proves it.
+The manager reviewed sales numbers before the meeting. Good evaluation requires clean data.
+The model works; the sales pitch followed. Sales won the day.
