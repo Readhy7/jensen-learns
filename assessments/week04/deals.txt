@@ -1,0 +1,10 @@
+bob,1000
+alice,5000
+carol,2000
+bob,1000
+carol,3000
+bob,1000
+alice,5000
+carol,4000
+bob,1000
+bob,1000
