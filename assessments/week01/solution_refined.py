@@ -10,7 +10,7 @@ with open(r'C:\Users\jense\Desktop\jensen-learns\assessments\week01\results.txt'
                     corrects[category]=0
                 corrects[category]+=1
             if category not in counts:
-                 counts[category]=0
+                counts[category]=0
             counts[category]+=1
 
     print(f"Overall accuracy: {sum(corrects.values())/sum(counts.values())*100}% ({sum(corrects.values())}/{sum(counts.values())})")

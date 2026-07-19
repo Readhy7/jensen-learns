@@ -8,6 +8,7 @@ print(os.getcwd())
 
 with open(r'C:\Users\jense\Desktop\jensen-learns\assessments\week00\sample.txt') as f:
     data = f.read()
+    print(data)
     newcase = data.lower()
     newcases = re.sub(r'[.,\\/#!$%\^&\*;:{}=\-_`~()]', '', newcase)
     words = newcases.split()
